@@ -4,6 +4,12 @@ Generating QR Codes
 [QR codes](https://en.wikipedia.org/wiki/QR_code) are 2d barcodes.
 You can encode a URL into the QR code.
 
+## System Requirements
+
+- R (with `Rscript` in your PATH)
+- `argparse` R package
+- `qrcode` R package
+
 ## Use Case
 
 Someone can use the camera on their mobile device to access the embedded URL
